@@ -5,3 +5,4 @@ Homework for Deep Learning Fundamentals class (BIT北理工, NLP, 深度学习�
 - `work3.ipynb`: use CycleGAN to realize style transfer between photographs and Monet paintings.
 - `work5.ipynb`: achieve [sarcasm detection](https://www.kaggle.com/datasets/rmisra/news-headlines-dataset-for-sarcasm-detection) via Attention-Based BiLSTM
 - `work3_result_compressed.mp4`: result display for work 3
+- work4: Object Detection(https://github.com/llada60/2022_BIT_object_detection_competition)
